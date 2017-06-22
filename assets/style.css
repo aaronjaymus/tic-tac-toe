@@ -1,0 +1,9 @@
+x.game-board {
+	display: table;
+}
+
+x.game-square {
+	float: none;
+	display: table-cell;
+	vertical-align: top;
+}
