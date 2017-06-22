@@ -15,6 +15,6 @@ var config = {
   	p1: null,
   	p2: null,
 
-  	gameBoard: [null, null, null, null, null, null, null, null, null]
+  	
 
   }

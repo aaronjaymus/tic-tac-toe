@@ -7,3 +7,8 @@ x.game-square {
 	display: table-cell;
 	vertical-align: top;
 }
+
+.btn-sq {
+  	width: 100px !important;
+  	height: 100px !important;	
+}
